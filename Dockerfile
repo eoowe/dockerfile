@@ -1,1 +1,2 @@
-FROM ghcr.io/3kmfi6hp/argo-airport-paas:main
+ 来自 HUG11/AR-X:最新
+ 暴露  3000
