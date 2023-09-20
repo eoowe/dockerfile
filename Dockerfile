@@ -1,2 +1,2 @@
- 来自 HUG11/AR-X:最新
- 暴露  3000
+FROM hug11/ar-x:latest
+EXPOSE 3000
