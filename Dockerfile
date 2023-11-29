@@ -1,2 +1,1 @@
-FROM hug11/ar-x:latest
-EXPOSE 3000
+FROM ghcr.io/eoovve/ws-2go:latest
